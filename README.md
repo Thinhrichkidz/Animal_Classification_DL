@@ -1,5 +1,4 @@
 # Animal_Classification_DL
-Here is a README file for your animal image classification code:
 
 # Animal Image Classification
 
